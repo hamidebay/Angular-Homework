@@ -1,0 +1,14 @@
+div{display: flex;
+flex-direction: column;
+width: 200px;
+height: 280px;
+border: 1px solid black;
+justify-content: center;
+margin-left: 40%; margin-top: 10%;
+background-color: rgb(214, 238, 247);}
+
+a{
+    text-decoration: none;
+}
+
+.citys{width: 100px; height: 30px; border: 1px solid black; padding: 10px; margin-top: 25px; margin-left: 35px; background-color: skyblue;}
